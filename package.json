@@ -8,5 +8,8 @@
     "dev": "nodemon backend/src/index.js"
   },
   "author": "luit dusad",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
 }
